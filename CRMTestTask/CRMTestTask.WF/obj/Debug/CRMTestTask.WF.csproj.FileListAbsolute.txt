@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\bin\Debug\CRMTestTask.WF.dll
+c:\users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\bin\Debug\CRMTestTask.WF.pdb
+c:\users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+c:\users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\obj\Debug\CRMTestTask.WF.dll
+c:\users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\obj\Debug\CRMTestTask.WF.pdb
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask.WF\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml

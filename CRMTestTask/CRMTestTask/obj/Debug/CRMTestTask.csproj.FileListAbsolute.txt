@@ -1,0 +1,9 @@
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask\bin\Debug\CRMTestTask.dll
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask\bin\Debug\CRMTestTask.pdb
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask\obj\Debug\CRMTestTask.dll
+C:\Users\user\documents\visual studio 2015\Projects\CRMTestTask\CRMTestTask\obj\Debug\CRMTestTask.pdb
